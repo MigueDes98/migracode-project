@@ -1,0 +1,40 @@
+body {background-color: #FFB775;
+margin-left: 15px;
+margin-right: 10px;}
+
+h1 {text-align: center;
+text-decoration: underline;}
+
+h2 {color: brown;
+font-family: cursive;
+border-bottom: 3px solid;
+padding: 5px;}
+
+p {font-family: sans-serif;
+clear: both;}
+
+td, th {padding-left: 20px;
+padding-bottom: 10px}
+
+th {text-decoration: underline;}
+
+#empire-info {text-align: left;
+margin-top: 55px;
+position: relative;
+right: 40px;}
+
+#empire {float: left;
+width: 40%;
+margin-bottom: 20px;}
+
+#empire-image {width: 85%;
+border: 5px ridge brown;}
+
+.image-info {font-family: serif;
+font-size: 14px;
+font-weight: bold;
+line-height: 0.4em;}
+
+.extension {position: absolute;
+top: 1%;}
+
